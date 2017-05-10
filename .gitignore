@@ -1,4 +1,4 @@
-*.class
+﻿*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -13,3 +13,31 @@ hs_err_pid*
 
 # 测试的目录
 /test/**
+
+#IDE配置文件
+.idea/
+*.iml
+
+
+#编译目录
+out/
+*/target/**
+!official-web/target/*.war
+
+#jetty项目文件
+tools/jetty/webapps/*.war
+
+#日志
+log/
+*.log
+*.log.*
+
+#linux下生成的备份文件
+~*
+～*
+*.bak
+*.kate-swp
+
+#其它文件
+.~*
+~*
