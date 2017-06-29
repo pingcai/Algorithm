@@ -2,6 +2,9 @@ package algorithm;
 
 import java.util.Stack;
 
+/**
+ * 详细介绍：http://blog.csdn.net/huangpingcai/article/details/73864521
+ */
 public class ReversePolishNotation {
     public static void main(String[] args) {
         //测试用例
