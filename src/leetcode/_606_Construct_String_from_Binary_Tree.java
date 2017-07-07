@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.lang.StringBuilder;
 import java.util.LinkedList;
 //Definition for a binary tree node.
@@ -16,7 +18,7 @@ class TreeNode {
 *  4     
 *Output: "1(2(4))(3)"
 **/
-public class _606_COnstruct_String_from_Binary_Tree {
+public class _606_Construct_String_from_Binary_Tree {
     public static void main(String[] ar){
 
     	TreeNode root = new TreeNode(1);
@@ -35,7 +37,7 @@ public class _606_COnstruct_String_from_Binary_Tree {
     	
 
 
-    	System.out.println(new _606_COnstruct_String_from_Binary_Tree().tree2str(root));
+    	System.out.println(new _606_Construct_String_from_Binary_Tree().tree2str(root));
     }
     public String tree2str(TreeNode t) {
         	
