@@ -13,6 +13,7 @@ hs_err_pid*
 
 # 测试的目录
 /test/**
+/src/test/**
 
 #IDE配置文件
 .idea/
