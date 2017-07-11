@@ -1,3 +1,5 @@
+package leetcode;
+
 public class _551_Student_Attendance_Record_I{
 	public static void main(String[] ar){
 		String str = "ALLALLALL";

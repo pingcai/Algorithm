@@ -1,7 +1,9 @@
+package leetcode;
+
 /**
  * 动态规划，暂时没想出来，先参考大牛的题解：http://bookshadow.com/weblog/2017/04/16/leetcode-student-attendance-record-ii/
  */
-public class _551_Student_Attendance_Record_I{
+public class _552_Student_Attendance_Record_II{
 
     private final int MOD = 1000000007;
     public long sum(int[] nums) {
