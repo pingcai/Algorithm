@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -31,7 +33,8 @@ public class _496_Next_Greater_Element_I {
             stack.push(i);
         }
         for (int i = 0; i < findNums.length; i++) {
-            findNums[i] = map.getOrDefault(findNums[i], -1);
+            //findNums[i] = map.getOrDefault(findNums[i], -1); //JDK 1.8
+            findNums[i] = map.get(findNums[i]) != null ? map.get(findNums[i]) : -1;
         }
         return findNums;
     }
