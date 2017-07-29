@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,7 +11,6 @@ import java.util.List;
 public class _77_Combinations {
     public static void main(String[] args) {
         System.out.println(new _77_Combinations().combine(4, 3));
-        ;
     }
 
     private List<List<Integer>> result = new ArrayList();
