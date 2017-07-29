@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.Arrays;
-
 /**
  * Created by pingcai on 17-5-2.
  * <p>
