@@ -10,12 +10,15 @@
 
 - [二叉搜索树](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/tree/BST.java)
 
+- [二叉平衡搜索树](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/tree/AVL.java)
+
 ### Leetcode
 
 | 题号| 名称 | 题意 | 主题 |
 |:---:|:---:|:---:|:---:|
 |7|[Reverse Integer](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_7_Reverse_Integer.java)|整型数逆置|Math|
 |13|[Roman to Integer](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_13_Roman_to_Integer.java)|罗马数字转整型|Math|
+|14|[Longest Common Prefix](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_14_Longest_Common_Prefix.java)|最长公共前缀|String|
 |15|[3Sum](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_15_3Sum.java)|三数和|Math|
 |16|[3SumClosest](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_16_3SumClosest.java)|最近三数和|Math|
 |26|[Remove Duplicates from Sorted Array](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_26_Remove_Duplicates_from_Sorted_Array.java)|数组去重|Array|
