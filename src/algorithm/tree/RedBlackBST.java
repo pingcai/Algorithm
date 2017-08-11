@@ -47,7 +47,7 @@ public class RedBlackBST<Key extends Comparable<Key>, Value> {
 
     /**
      * <p>
-     * 插入分为四种情况：
+     * 插入分为两种情况：
      * <p>
      * 1.插入２－节点，设插入的节点为 k
      * 　　N
