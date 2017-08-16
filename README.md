@@ -12,6 +12,8 @@
 
 - [二叉平衡搜索树](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/tree/AVL.java)
 
+- [红黑树](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/tree/RedBlackBST.java)
+
 - [KMP](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/string/KMP.java)
 
 - [堆排序](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/sort/HeapSort.java)
