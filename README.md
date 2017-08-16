@@ -14,6 +14,10 @@
 
 - [KMP](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/string/KMP.java)
 
+- [堆排序](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/sort/HeapSort.java)
+
+- [快速排序](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/sort/QuickSort.java)
+
 ### Leetcode
 
 | 题号| 名称 | 题意 | 主题 |
