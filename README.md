@@ -12,6 +12,8 @@
 
 - [二叉平衡搜索树](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/tree/AVL.java)
 
+- [KMP](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/string/KMP.java)
+
 ### Leetcode
 
 | 题号| 名称 | 题意 | 主题 |
