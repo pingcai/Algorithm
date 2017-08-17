@@ -3,6 +3,7 @@ package algorithm.string;
 import java.util.Arrays;
 
 /**
+ * 来源：http://blog.csdn.net/v_july_v/article/details/7041827
  * date：2017/8/14
  * author：黄平财
  */
