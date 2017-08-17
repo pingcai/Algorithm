@@ -1,7 +1,7 @@
 package algorithm.string;
 
 /**
- * 来源:http://blog.csdn.net/v_july_v/article/details/7041827,讲得非常清晰!
+ * 思路来源:http://blog.csdn.net/v_july_v/article/details/7041827,讲得非常清晰!
  * 说明：
  * 　坏字符:失配时text当前的字符
  * 　好后缀：失配时已经匹配到的后缀
