@@ -16,6 +16,8 @@
 
 - [KMP](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/string/KMP.java)
 
+- [BM](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/string/BM.java)
+
 - [堆排序](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/sort/HeapSort.java)
 
 - [快速排序](https://github.com/pingcai/Algorithm/blob/master/src/algorithm/sort/QuickSort.java)
