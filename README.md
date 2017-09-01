@@ -39,8 +39,9 @@
 |70|[70 Climbing Stairs](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_70_Climbing_Stairs.java)|上楼梯(青蛙跳台阶)|DP|
 |77|[Combinations](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_77_Combinations.java)|组合数（全排列）|Array|
 |90|[Subsets II](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_90_Subsets_II.java)|求数组子集（含重复元素）|Array|
-|165|[165 Compare Version Numbers](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_165_Compare_Version_Numbers.java)|版本号比较|String|
-|165|[198 House Robber](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_198_House_Robber.java)| 偷东西 | DP|
+|152|[Maximum Product Subarray](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_152_Maximum_Product_Subarray.java)|最大子数组乘积|DP|
+|165|[Compare Version Numbers](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_165_Compare_Version_Numbers.java)|版本号比较|String|
+|165|[House Robber](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_198_House_Robber.java)| 偷东西 | DP|
 |219|[Contains Duplicate II](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_219_Contains_Duplicate_II.java)|重复元素判断|Array|
 |234|[Palindrome Linked List](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_234_Palindrome_Linked_List.java)|回文链表判断|LinkedList|
 |434|[Number of Segments in a String](https://github.com/pingcai/Algorithm/blob/master/src/leetcode/_434_Number_of_Segments_in_a_String.java)|字符串分段数|String|
