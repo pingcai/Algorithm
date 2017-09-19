@@ -7,6 +7,8 @@ import java.util.stream.Stream;
 
 /**
  * 使用1G的内存：-Xms1024M -Xmx1024M  -Xmn800M -XX:MaxMetaspaceSize=16M
+ * CPU：core(TM)i5-4200H 2.8Ghz
+ * 硬盘：西部数据机械1T 5200转
  * 2千万单线程耗时36秒
  * 2亿单线程消耗736秒，十二分钟左右,文件2G
  * 20亿耗时37632秒（10多个小时），文件22G，需要切割成100个文件，每个文件234M
